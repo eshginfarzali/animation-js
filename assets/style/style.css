@@ -100,11 +100,6 @@ ul span{
     padding: 2rem;
     top: 20%;
     left: 50%;
-    transform: (translate(-20%, -50%));
-    -webkit-transform: (translate(-20%, -50%));
-    -moz-transform: (translate(-20%, -50%));
-    -ms-transform: (translate(-20%, -50%));
-    -o-transform: (translate(-20%, -50%));
     font-size: 1.5rem;
     background: rgba(0,0,0,0.5);
 }
